@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Alexane, I'm a Data Scientist. Here you can find building blocks to perform data science, data visualization and MLOps. I mostly use python either in my ocal environment or in AWS. I deploy components to AWS using CDK. 
+- 🔭 I have experience in data sicence, AI and data visualization.
+- 🌱 I’m currently learning about MLOps on AWS.
+- 📫 How to reach me: via LinkedIn @[alexanerose](https://www.linkedin.com/in/alexane-rose/) 
 <!--
 **alexane-rose/alexane-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
